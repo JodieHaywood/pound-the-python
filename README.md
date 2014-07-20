@@ -128,9 +128,6 @@ How do I do data-science?
 =========================
 
 What?... I don't know that!
-
 but links!
-
 http://blog.yhathq.com/posts/data-science-in-python-tutorial.html
-
 http://www.quora.com/Data-Science/How-do-I-become-a-data-scientist
