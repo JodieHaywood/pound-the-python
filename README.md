@@ -69,3 +69,63 @@ to run what you write:
 	shift+enter
 
 
+
+How to learn python
+===================
+
+Find a problem, and use python to solve it!
+I learned python by making a die roller:
+
+	import random
+	class die:
+	    #first every class needs an __init__ method
+	    #__init__ gets run automatically when you instantiate an object
+	    def __init__(self, sides = 6):
+	        '''die represents a single diec
+	        with the propertie of sides
+	        and the method of roll'''
+	        self.sides = sides
+	        
+	    def roll(self):
+	        self.rolled = random.randint(1,self.sides)
+	        print self.rolled
+	    def rolln(self, n = 10):
+	        print [random.randint(1,self.sides) for x in range(n)]
+
+
+Here are some awesome Instructional websites!
+My Favorite: http://learnpythonthehardway.org/book/
+
+and these are the recommendations I got from my data science course on coursera:
+
+Google's Python Class: https://developers.google.com/edu/python/
+
+Code Academy Python: http://www.codecademy.com/tracks/python
+
+Syntax checking for Python: http://www.jetbrains.com/pycharm/
+
+http://www.sthurlow.com/python/
+
+A guide for finding resources: http://docs.python-guide.org/en/latest/
+
+
+
+What are the coolest tools?
+===========================
+
+pandas: DataFrames are awesome!
+numpy: Maths are awesome!
+scipy: Statistics are awesome!
+
+	import pandas as pd
+	import numpy as np
+	from scipy import stats
+
+
+How do I do data-science?
+=========================
+
+What?... I don't know that!
+but links!
+http://blog.yhathq.com/posts/data-science-in-python-tutorial.html
+http://www.quora.com/Data-Science/How-do-I-become-a-data-scientist
