@@ -108,6 +108,7 @@ http://www.sthurlow.com/python/
 
 A guide for finding resources: http://docs.python-guide.org/en/latest/
 
+and this rando: https://anshbansal.wordpress.com/programming-links/
 
 
 What are the coolest tools?
@@ -131,3 +132,5 @@ What?... I don't know that!
 but links!
 http://blog.yhathq.com/posts/data-science-in-python-tutorial.html
 http://www.quora.com/Data-Science/How-do-I-become-a-data-scientist
+
+
