@@ -94,7 +94,9 @@ I learned python by making a die roller:
 
 
 Here are some awesome Instructional websites!
-My Favorite: http://learnpythonthehardway.org/book/
+My Favorite: http://nbviewer.ipython.org/gist/rpmuller/5920182
+
+http://learnpythonthehardway.org/book/
 
 and these are the recommendations I got from my data science course on coursera:
 
